@@ -1,0 +1,10 @@
+# no .ele files
+*.ele
+
+
+# but do track lib.ele, even though you're ignoring .ele files above
+#!lib.ele
+#
+
+# ignore all files in the ele/ directory
+ele/
